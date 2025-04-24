@@ -7,7 +7,7 @@ You then might undestand the fact that the calculator doesn't provide all the fe
 All the basics operations are sustained.
 <ul>
   <li>Addition</li>
-  <li>Difference</li>
+  <li>Substraction</li>
   <li>Multiplication</li>
   <li>Division</li>
 </ul>
