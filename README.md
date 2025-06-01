@@ -12,6 +12,6 @@ All the basics operations are sustained.
 - Substration
 
 ## Exemple of an operation 
-<code>3+2-4*2</code>
-Tap  'Enter' on your keyboard. 
+<code>3+2-4*2</code>\
+Then click <kbd>Enter</kbd> on your keyboard. 
 
