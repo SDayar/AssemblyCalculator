@@ -11,7 +11,7 @@ All the basics operations are sustained.
 - Division
 - Substration
 
-> ## Exemple of an operation 
-> '3+2-4*2'
-> Tap  'Enter' on your keyboard. 
+## Exemple of an operation 
+'3+2-4*2'
+Tap  'Enter' on your keyboard. 
 
